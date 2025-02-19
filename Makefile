@@ -9,3 +9,11 @@ dev:
 start:
 	@echo "Iniciando servidor FastAPI..."
 	$(UVICORN_CMD)
+
+test:
+	
+
+create-jwt:
+	@echo "Create JWT Token"
+	bash ./scripts/generate_jwt.sh
+
