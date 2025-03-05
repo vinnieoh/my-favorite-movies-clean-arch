@@ -1,5 +1,7 @@
+from typing import ClassVar
 from dotenv import dotenv_values
 from pydantic_settings import BaseSettings
+from sqlalchemy.orm import declarative_base
 
 class Config(BaseSettings):
     _config_env = dotenv_values("./dotenv_files/.env")
@@ -7,6 +9,7 @@ class Config(BaseSettings):
     API_V1_STR: str = '/api/v1'
     PROJECT_NAME: str = "My Favorite Movies"
     API_MOVIE: str = _config_env.get("API_MOVIE", "default_api_movie_url")
+    DBBaseModel: ClassVar = declarative_base() 
     
     DB_HOST: str = _config_env.get("DB_HOST", "localhost")
     DB_PORT: int = int(_config_env.get("DB_PORT", 5432))

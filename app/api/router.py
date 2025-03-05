@@ -1,5 +1,10 @@
 from fastapi import APIRouter
 
+from .v1_endpoints import (usuario_route,
+                           usuario_conteudos_route,
+                           comentario_route,
+                           conteudos_route
+                           )
 
 
 api_router = APIRouter()
