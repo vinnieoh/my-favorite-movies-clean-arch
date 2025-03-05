@@ -1,0 +1,7 @@
+[run]
+source = app
+omit =
+    tests/*
+    */tests/*
+    */conftest.py
+    */test_*.py
