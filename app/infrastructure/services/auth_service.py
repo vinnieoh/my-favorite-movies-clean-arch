@@ -7,7 +7,7 @@ from pydantic import BaseModel, EmailStr
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 
-from app.domain.models import UsuarioModel
+from app.domain.models.User import UsuarioModel
 from app.settings.config import config
 from app.infrastructure.services.security_service import verificar_senha
 

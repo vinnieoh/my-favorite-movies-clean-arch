@@ -29,3 +29,61 @@
 2025-03-05 12:23:22,086 [INFO] test_logger: Teste de logging no arquivo
 2025-03-05 12:23:22,087 [ERROR] test_logger: Teste de erro no log
 2025-03-05 12:25:03,478 [ERROR] test_logger: Teste de erro no log
+2025-03-05 14:36:04,230 [INFO] uvicorn.error: Started server process [146332]
+2025-03-05 14:36:04,230 [INFO] uvicorn.error: Waiting for application startup.
+2025-03-05 14:36:04,231 [INFO] uvicorn.error: Application startup complete.
+2025-03-05 14:36:04,306 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:04,657 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:05,008 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:05,359 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:05,710 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:06,060 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:06,411 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:06,762 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:07,113 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:07,463 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:07,814 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:08,164 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:08,515 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:08,866 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:09,216 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:09,567 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:09,917 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:10,268 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:10,619 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:10,970 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:11,321 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:11,672 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:12,022 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:12,373 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:12,724 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:13,075 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:13,426 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:13,777 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:14,128 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:14,478 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:14,829 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:15,180 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:15,530 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:15,881 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:16,232 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:16,583 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:16,934 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:17,285 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:17,636 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:17,987 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:18,337 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:18,688 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:19,039 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:19,390 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:19,741 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:20,092 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:20,443 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:20,794 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:21,144 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:21,495 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:21,846 [INFO] watchfiles.main: 1 change detected
+2025-03-05 14:36:21,986 [INFO] uvicorn.error: Shutting down
+2025-03-05 14:36:22,087 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-03-05 14:36:22,087 [INFO] uvicorn.error: Application shutdown complete.
+2025-03-05 14:36:22,087 [INFO] uvicorn.error: Finished server process [146332]

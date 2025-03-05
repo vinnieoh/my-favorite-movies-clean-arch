@@ -5,7 +5,7 @@ from app.settings.config import config
 from app.settings.logs import setup_logging
 
 # Configurar logging
-setup_logging()
+#setup_logging()
 
 app = FastAPI(title=config.PROJECT_NAME)
 
