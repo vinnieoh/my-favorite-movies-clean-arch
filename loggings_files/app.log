@@ -16,3 +16,16 @@
 2025-03-05 11:24:35,854 [ERROR] test_logger: Teste de erro no log
 2025-03-05 11:24:51,129 [INFO] test_logger: Teste de logging no arquivo
 2025-03-05 11:24:51,134 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:10:33,250 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:10:33,255 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:17:44,328 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:17:44,329 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:17:53,082 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:17:53,084 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:21:13,838 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:21:13,839 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:21:22,924 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:21:22,927 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:23:22,086 [INFO] test_logger: Teste de logging no arquivo
+2025-03-05 12:23:22,087 [ERROR] test_logger: Teste de erro no log
+2025-03-05 12:25:03,478 [ERROR] test_logger: Teste de erro no log
